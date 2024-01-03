@@ -1,5 +1,3 @@
-https://hackmd.io/8_IH5lGwQz6gQCACmTiKOg
-
 # Stock
 
 * Get stock ticker  `獲得股票代號及產業`
